@@ -1,1 +1,1 @@
-# lab-board
+# laboboard
